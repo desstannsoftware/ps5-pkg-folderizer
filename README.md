@@ -10,6 +10,12 @@ directly on the console. Built for homebrew developers and for backups of games 
 Download it from [desstannsoftware.com](https://desstannsoftware.com/#pkg-folderizer).
 
 <p align="center">
+  <a href="https://www.buymeacoffee.com/desstann" target="_blank" title="Buy me a coffee">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FoZmV2cW12NmxueGR6M25yOG50bHN2MndjbzJzamtmNDV2aWZ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7kZE0z52Sd9zSESzDA/giphy.gif" alt="Buy me a coffee">
+  </a>
+</p>
+
+<p align="center">
   <img src="docs/how-it-works.webp" alt="Pick games, choose the output, convert. ShadowMountPlus picks the game up.">
 </p>
 
@@ -69,6 +75,10 @@ You can also get it from the Homebrew Store.
 1. Pick a game, or queue several.
 2. Check the recommended output, or open Advanced options to choose the drive, format and compression.
 3. Start. When it finishes, close the app and ShadowMountPlus picks up the game.
+
+## Support
+
+PKG Folderizer is free. If it helps you, [buy me a coffee](https://www.buymeacoffee.com/desstann) — it keeps the updates coming.
 
 ## Community
 
