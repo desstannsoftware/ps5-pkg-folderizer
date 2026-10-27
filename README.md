@@ -18,6 +18,8 @@ Download it from [desstannsoftware.com](https://desstannsoftware.com/#pkg-folder
 - **PS5 and PS4 packages.** Debug packages on the internal SSD, USB drives and extended storage are found
   automatically, along with games that are already installed. The list shows each one's format: PS5 FPKG,
   PS4 PKG or Folder.
+- **Game images as sources.** `.exfat`, `.ffpkg`, `.ffpfs` and `.ffpfsc` files are found in the same
+  places as packages and convert to any output format.
 - **Every ShadowMount format.** Write a plain **Folder** (the default) or a single image: `.ffpkg` (UFS2),
   `.ffpfs` (PFS), `.ffpfsc` (compressed PFS, with fast, balanced or smallest compression) or `.exfat`.
 - **LZ4 asset packs.** Game data can be packed into the LZ4 volumes the AMPR emulator reads, for games
@@ -79,4 +81,4 @@ not download any. Use it only with homebrew and with packages you have the right
 
 ## License
 
-[GPL-3.0-or-later](LICENSE)
+Copyright (C) 2026 Desstann. [All Rights Reserved](LICENSE).
